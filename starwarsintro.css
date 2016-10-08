@@ -3,7 +3,7 @@ body,html{
 	padding: 0;
 	background: #000 url('galaxy.jpg') center;
 	font-size: 16px;
-	font-family: impact;
+	font-family: 'Oswald', sans-serif;
 	font-weight:500;
 }
 

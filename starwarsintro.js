@@ -8,7 +8,7 @@ var delta =1;
 var scaleDelta = 0.008;
 var speed = 50;
 
-function scale(){
+function scale(){	
 	size = size - scaleDelta;
 	posY = posY -delta;
 	if(posY<80){
